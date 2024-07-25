@@ -9,9 +9,11 @@ In this short notebook I will focus on the 27 EU member states. Of course, I am 
 
 In this notebook:
 
-    Check the data
-    Select the EU countries
-    Visualise percentage of female EU Heads of Mission (HoMs)
-    Visualise which countries receive more female HoMs?
-    What is the percentage of female EU HoMs at G7 countries, China and Russia?
+1. Check the data
+1. Select the EU countries
+1. Visualise percentage of female EU Heads of Mission (HoMs)
+1. Visualise which countries receive more female HoMs?
+1. What is the percentage of female EU HoMs at G7 countries, China and Russia?
+
+See also: https://www.kaggle.com/code/basernst/gender-and-diplomacy-female-eu-heads-of-missions
 
